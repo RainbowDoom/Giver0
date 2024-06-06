@@ -1,4 +1,5 @@
 game.ReplicatedStorage.CostInGame.Mage.Value = 0
+game.ReplicatedStorage.CostInGame.Archangel.Value = 0
 game.ReplicatedStorage.CostInGame.Boomer.Value = 0
 game.ReplicatedStorage.CostInGame.Artist.Value = 0
 game.ReplicatedStorage.CostInGame.Chibik.Value = 0
